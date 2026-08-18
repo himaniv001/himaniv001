@@ -1,5 +1,10 @@
-## Hi there 👋
+<div align="center">
 
+# Hi, I'm Himani 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4500&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Here+to+build%2C+learn%2C+and+ship.;Making+ideas+work.)](https://git.io/typing-svg)
+
+</div>
 <!--
 **himaniv001/himaniv001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
